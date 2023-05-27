@@ -1,3 +1,4 @@
+my project is :
 Integrating a single web page with a PHP script and MySQL database on ownCloud involves several steps. Here's a general guide to help you get started:
 1-Set up ownCloud: Install ownCloud on your server or web hosting environment. Ensure that you have PHP and MySQL support enabled.
 2-Create a MySQL database: Log in to your MySQL server and create a new database for your application. Note down the database name, username, and password, as you'll need them later.
